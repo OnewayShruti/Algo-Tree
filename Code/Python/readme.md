@@ -1,2 +1,2 @@
  # Codes in the Python language
- (Kamnestsky's Formula in python){Code/Python/Kamenetsky_Formula.py}
+[Link to Kamenetsky_Formula](Code/Python/Kamenetsky_Formula.py)
