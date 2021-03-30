@@ -1,3 +1,2 @@
  # Codes in the Python language
-
- (Kamnestsky's Formula in python){https://github.com/OnewayShruti/Algo-Tree/pull/1/commits}
+[Link to Kamenetsky_Formula](Code/Python/Kamenetsky_Formula.py)
